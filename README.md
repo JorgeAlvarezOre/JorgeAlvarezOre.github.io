@@ -1,2 +1,2 @@
 # jorgealvarez.github.io
-Jorge Alvarez personal page
+Jorge Alvarez personal web page
